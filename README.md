@@ -8,6 +8,8 @@ Keep the list alphabetical by surname. SIU alumni welcome!
 
 | Name | Github | Personal Site |
 | :--- | :----- | :------------ |
+| Ayush Kohli | [akohli96](https://github.com/akohli96) | |
+| Jacob Reed | [jake32321](https://github.com/jake32321) | [jake-reed.com](https://www.jake-reed.com) |
 | Ethan Richardson | [ethanx94](https://github.com/ethanx94) | [richardsonethan.me](http://richardsonethan.me) |
 
 ## Projects
