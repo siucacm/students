@@ -19,3 +19,10 @@ Keep the list alphabetical by project name.
 | Name | Description |
 | :--- | :----- |
 | [FollowSIU.py](https://github.com/siucacm/GitHub-Tools/blob/master/followsiu.py) | A script to follow everyone listed on this page, because laziness. |
+| [siucacm website](https://github.com/siucacm/siucacm.github.io) | Home Webpage of SIUCACM |
+| [ACM_GamerTag_DB](https://github.com/siucacm/ACM_GamerTagDB) | Database of ACM Gamertags |
+| [SalukiLan Website](https://github.com/siucacm/SalukiLAN_Website) | Home Webpage of SalukiLan |
+| [SigGame](https://github.com/siucacm/siggame) | SigGame |
+| [auth_siucacm](https://github.com/siucacm/auth_siucacm) | Authentication for SIUCACM Computers |
+| [lprms](https://github.com/siucacm/lprms) | Lan Party Registration Management System | 
+
